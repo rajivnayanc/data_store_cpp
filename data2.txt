@@ -1,0 +1,3 @@
+rajiv,12,M
+sanchita,13,F
+Juhi,25,M
